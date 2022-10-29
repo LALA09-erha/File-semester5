@@ -1,0 +1,12 @@
+1. PSNA_Conf - using Genetic Algorithm and Neural Network  - 2012
+2. 10.1.1.378.9860 - naive bayes - 2013 maret
+3. 3-19-139082351251-55 - GENETIC ALGORITHM FOR SELECTION OF OPTIMAL REDUCED SET OF ATTRIBUTES (naive bayes dan decision tree) - 2013 april 
+4. 229771582-  Artificial Neural Network  and Feature Subset Selection - 2013 mei 
+5. A_Comparative_Study_of_Heart_Disease_Pre  - PCA reduction method - 2014
+6. adoc.pub_pembuatan-sistem-cerdas-untuk-detek
+7. feature-analysis-of-coronary-artery-heart-disease-data-sets - C4.5 and Fast Decision Tree classifiers - 2015
+8. 229279242 - knn -2016
+9. 2105.10816v1 - Convolutional Neural Network - 2021 22 mei 
+10. 468-1-1320-1-10-20210722 - ALGORITMA LOGISTIC REGRESSION - 2021 2 juli
+
+9. Brandon_Simmons_Thesis-Final -  Random Forest algorithm -2021 mei 
