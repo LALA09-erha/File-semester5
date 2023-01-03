@@ -4,8 +4,10 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{791C59CF-1A7B-48D7-BA71-D8A1BED67B30}" Name="sistem_kopi" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="sistem_kopi.cdm"/>
-		<Model Expanded="Yes" ID="{C9E1A40A-FFBE-4651-B28A-E2C2121EA1BA}" Name="sistem_kopi" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="sistem_kopi.pdm"/>
+		<Model Expanded="Yes" ID="{791C59CF-1A7B-48D7-BA71-D8A1BED67B30}" Loaded="No" Name="sistem_kopi" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="sistem_kopi.cdm"/>
+		<Model Expanded="Yes" ID="{C9E1A40A-FFBE-4651-B28A-E2C2121EA1BA}" Loaded="No" Name="sistem_kopi" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="sistem_kopi.pdm"/>
+		<Model Expanded="Yes" ID="{8661F8FE-3E35-4CED-80E5-5390FE1E7F1A}" Name="Conceptual Data_1" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="../db_absen/Conceptual Data_1.cdm"/>
+		<Model Expanded="Yes" ID="{68C21617-84C3-4FD0-8759-97EC6FD81666}" Name="Conceptual Data_1" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../db_absen/absensi.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
